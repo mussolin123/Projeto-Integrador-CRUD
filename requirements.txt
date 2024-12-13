@@ -1,0 +1,14 @@
+#pip install -r requirements.txt#
+
+requests
+cmake
+django
+streamlit
+pymysql
+opencv-python
+face_recognition
+pillow
+djangorestframework
+django-cors-headers
+djangorestframework[auth]
+djangorestframework-simplejwt
