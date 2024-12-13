@@ -39,12 +39,8 @@ Algumas dependências adicionais são necessárias para o funcionamento do dlib:
 ### 3.2 Dlib
 Após instalar os pré-requisitos, instale o dlib:
 ```
-pip install "C:\Users\(usuario)\(caminho_whl)\dlib-19.24.1-cp311-cp311-win_amd64.whl"
+pip install dlib-19.24.1-cp311-cp311-win_amd64.whl
 ```
-Exemplo de como deve ficar: pip install "C:\Users\leticia.lima\Documents\Projeto-Integrador-main\dlib-19.24.1-cp311-cp311-win_amd64.whl"
-
-> Substitua o "(usuario)" pelo seu usuário. Exemplo: leticia.lima <br>
-> Substitua o "(caminho_whl)" pelo caminho em que salvou o arquivo "dlib-19.22.99-cp39-cp39-win_amd64.whl"
 
 # 📦 4. Instalação das Bibliotecas Necessárias
 Use o comando abaixo para instalar todas as bibliotecas requeridas de uma vez (dentro do ambiente virtual):
